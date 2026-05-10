@@ -4,7 +4,7 @@ using System.IO;
 using ConsoleApp1;
 
 // Crear un libro de ejemplo
-var libro = new Libro("Cien Años de Soledad", "Gabriel García Márquez", 1967, true);
+var libro = new Libro("Cien Años dew Soledad", "Gabriel García Márquez", 1967, true);
 Console.WriteLine(libro.ToString());
 
 // Crear el fichero respuestas.txt con las respuestas pedidas
